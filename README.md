@@ -1,6 +1,7 @@
-CPSC 349 Project 1
-Baraa Damer
-Phong Nguyen
-Liti
+**README: School Project Website with Quiz**
 
-Spring 2024
+**Instructions:**
+
+1. **Download Files**: Get project files from the repository.
+
+2. **Opening the Website**: Keep everything in the same folder. Start by opening the INDEX.html folder to get started. Recommended to run the program in Replit.
